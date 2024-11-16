@@ -1,0 +1,5 @@
+homepage: "https://venofy.com"
+documentation: "https://venofy.com"
+versions:
+  - sha: 49f4493539a380a433f41a3658259189a439c869
+    changeNotes: Initial release.
